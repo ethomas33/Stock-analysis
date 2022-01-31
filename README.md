@@ -12,9 +12,9 @@ From here an analysis was done to see if refactoring the origional code could re
 When we compare the results they are as follows: 
 
 ![2017_Origional](https://github.com/ethomas33/Stock-analysis/blob/8f2a657b4abc4180cffc5d5b8bc452884608aa3a/Resources/2017_O.png)
-![2018_Origional](https://github.com/ethomas33/Stock-analysis/blob/8f2a657b4abc4180cffc5d5b8bc452884608aa3a/Resources/2018_O.png)
-
 ![2017_Refactored](https://github.com/ethomas33/Stock-analysis/blob/8f2a657b4abc4180cffc5d5b8bc452884608aa3a/Resources/2017_R.png)
+
+![2018_Origional](https://github.com/ethomas33/Stock-analysis/blob/8f2a657b4abc4180cffc5d5b8bc452884608aa3a/Resources/2018_O.png)
 ![2018_Refactored](https://github.com/ethomas33/Stock-analysis/blob/8f2a657b4abc4180cffc5d5b8bc452884608aa3a/Resources/2018_R.png)
 
 
