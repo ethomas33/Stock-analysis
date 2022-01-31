@@ -1,7 +1,7 @@
 # Stock-analysis
 ----------------------------------
 
-##Overview of Project: 
+##Overview of Project:
 
 This core deliverable of this project is a table that pulls for a select list of tickers the Total Daily Volume as well as the Return in a visually appealing manor that is easy to understand. This was then taking a few steps further by giving options such as pulling different years - 2017 or 2018. 
 
